@@ -4,11 +4,11 @@
 
 예시   
 
-participant | completion | return  
----  
-[leo, kiki, eden] |	[eden, kiki] |	leo  
-[marina, josipa, nikola, vinko, filipa] | [josipa, filipa, marina, nikola] | vinko  
-[mislav, stanko, mislav, ana] |	[stanko, ana, mislav] |	mislav   
+| participant | completion | return |   
+| --- | --- | --- |    
+| [leo, kiki, eden] |	[eden, kiki] |	leo    
+| [marina, josipa, nikola, vinko, filipa] | [josipa, filipa, marina, nikola] | vinko |    
+| [mislav, stanko, mislav, ana] |	[stanko, ana, mislav] |	mislav |   
 
 제한 사항  
 - 마라톤 경기에 참여한 선수의 수는 1명 이상 100,000명 이하  
