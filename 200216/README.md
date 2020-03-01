@@ -1,4 +1,4 @@
-### 코딩테스트 연습 2020 KAKAO BLIND RECRUITMENT 문자열 압축
+### 코딩테스트 연습 > 2020 KAKAO BLIND RECRUITMENT > 문자열 압축
 [문제](https://programmers.co.kr/learn/courses/30/lessons/60057?language=python3)  
 - 주어진 문자열을 1개 이상 단위로 잘라 압축하여 표현한 문자열 중 가장 짧은 것의 길이 구하기  
 
