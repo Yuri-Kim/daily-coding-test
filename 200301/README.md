@@ -1,6 +1,6 @@
 ### 코딩테스트 연습 > 탐욕법(Greedy) > 체육복  
 [문제](https://programmers.co.kr/learn/courses/30/lessons/42862)  
-- 
+- 바로 앞번호, 뒷번호에게만 체육복을 빌려줄 수 있을때, 체육을 들을 수 있는 최대 학생 수 구하기  
 
 예시   
 
