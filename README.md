@@ -12,5 +12,8 @@
    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200217/marathon.py)  
 3. 200218 : 코딩테스트 연습 > 완전탐색 > 모의고사
    [문제](https://programmers.co.kr/learn/courses/30/lessons/42840), 
-   [내풀이]()
-   
+   [내풀이]()  
+4. 200301 : 코딩테스트 연습 > 탐욕법(Greedy) > 체육복 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/42862),
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200301/gymsuit.py)  
+    
