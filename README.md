@@ -19,4 +19,6 @@
 5. 200302 : 코딩테스트 연습 > 정렬 > K번째수 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/42748), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200302/kthnum.py)  
-    
+6. 200303 : 코딩테스트 연습 > 연습문제 > 2016년 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12901), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200303/2016.py)  
