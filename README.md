@@ -22,3 +22,7 @@
 6. 200303 : 코딩테스트 연습 > 연습문제 > 2016년 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12901), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200303/2016.py)  
+7. 200304 : 코딩테스트 연습 > 연습문제 > 가운데 글자 가져오기 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12903), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200304/middle_letter.py)  
+    
