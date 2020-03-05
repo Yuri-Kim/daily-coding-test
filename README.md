@@ -25,4 +25,8 @@
 7. 200304 : 코딩테스트 연습 > 연습문제 > 가운데 글자 가져오기 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12903), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200304/middle_letter.py)  
+8. 200305 : 코딩테스트 연습 > 연습문제 > 같은 숫자는 싫어 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12906), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200305/remove_same_num.py)   
+  
     
