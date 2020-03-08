@@ -28,5 +28,8 @@
 8. 200305 : 코딩테스트 연습 > 연습문제 > 같은 숫자는 싫어 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12906), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200305/remove_same_num.py)   
-  
+9. 200308 : 코딩테스트 연습 > 연습문제 > 나누어 떨어지는 숫자 배열 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12910), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200308/divide_num.py)  
+
     
