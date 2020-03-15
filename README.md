@@ -37,5 +37,7 @@
 11. 200312 : 코딩테스트 연습 > 연습문제 > 문자열 내 마음대로 정렬하기 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12915), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200312/sort_word.py)  
-
+12. 200315 : 코딩테스트 연습 > 연습문제 > 문자열 내림차순으로 배치하기 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12917), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200315/sort_string.py)  
     
