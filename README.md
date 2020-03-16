@@ -40,4 +40,6 @@
 12. 200315 : 코딩테스트 연습 > 연습문제 > 문자열 내림차순으로 배치하기 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12917), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200315/sort_string.py)  
-    
+13. 200316 : 코딩테스트 연습 > 연습문제 > 문자열 다루기 기본 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12918), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200316/string_isdigit.py)      
