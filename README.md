@@ -43,3 +43,7 @@
 13. 200316 : 코딩테스트 연습 > 연습문제 > 문자열 다루기 기본 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12918), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200316/string_isdigit.py)      
+14. 200317 : 코딩테스트 연습 > 연습문제 > 서울에서 김서방 찾기  
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12919), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200317/find_kim.py)  
+    
