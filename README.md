@@ -46,4 +46,6 @@
 14. 200317 : 코딩테스트 연습 > 연습문제 > 서울에서 김서방 찾기  
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12919), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200317/find_kim.py)  
-    
+15. 200318 : 코딩테스트 연습 > 연습문제 > 소수 찾기 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12921), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200318/prime_num.py)  
