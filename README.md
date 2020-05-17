@@ -55,4 +55,7 @@
 17. 200322 : 코딩테스트 연습 > 연습문제 > 문자열을 정수로 바꾸기 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12925), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200322/string_to_int.py)  
+18. 200515 : 코딩테스트 연습 > 2018 KAKAO BLIND RECRUITMENT > [1차] 다트게임 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/17682), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200515/dart_game.py)  
     
