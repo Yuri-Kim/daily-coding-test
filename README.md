@@ -61,4 +61,6 @@
  19. 200517 : 코딩테스트 연습 > 연습문 > 자연수 뒤집어 배열로 만들기 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12932), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200517/num_to_array.py)  
-    
+  20. 200521 : 코딩테스트 연습 > 연습문 > 정수 내림차순으로 배치하기 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12933), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200521/descending_order.py)  
