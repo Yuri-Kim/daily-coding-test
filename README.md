@@ -58,4 +58,7 @@
 18. 200515 : 코딩테스트 연습 > 2018 KAKAO BLIND RECRUITMENT > [1차] 다트게임 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/17682), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200515/dart_game.py)  
+ 19. 200517 : 코딩테스트 연습 > 연습문 > 자연수 뒤집어 배열로 만들기 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12932), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200517/num_to_array.py)  
     
