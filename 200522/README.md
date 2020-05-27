@@ -1,4 +1,4 @@
-### 코딩테스트 연습 > 연습문 > 평균 구하기        
+### 코딩테스트 연습 > 연습문제 > 평균 구하기        
 [문제](https://programmers.co.kr/learn/courses/30/lessons/12944)  
 - 정수를 담고 있는 배열 arr의 평균값을 return    
 
