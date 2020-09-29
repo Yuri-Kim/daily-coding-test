@@ -58,20 +58,23 @@
 18. 200515 : 코딩테스트 연습 > 2018 KAKAO BLIND RECRUITMENT > [1차] 다트게임 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/17682), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200515/dart_game.py)  
- 19. 200517 : 코딩테스트 연습 > 연습문제 > 자연수 뒤집어 배열로 만들기 
+19. 200517 : 코딩테스트 연습 > 연습문제 > 자연수 뒤집어 배열로 만들기 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12932), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200517/num_to_array.py)  
-  20. 200521 : 코딩테스트 연습 > 연습문제 > 정수 내림차순으로 배치하기 
+20. 200521 : 코딩테스트 연습 > 연습문제 > 정수 내림차순으로 배치하기 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12933), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200521/descending_order.py)  
-  21. 200522 : 코딩테스트 연습 > 연습문제 > 평균 구하기 
+21. 200522 : 코딩테스트 연습 > 연습문제 > 평균 구하기 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12944), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200522/get_avg.py)  
-  22. 200527 : 코딩테스트 연습 > 연습문제 > 짝수와 홀수 
+22. 200527 : 코딩테스트 연습 > 연습문제 > 짝수와 홀수 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12937), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200527/even_odd.py)  
- 23. 200727 : 코딩테스트 연습 > 연습문제 > 약수의 합  
+23. 200727 : 코딩테스트 연습 > 연습문제 > 약수의 합 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12928), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200727/sum_divisor.py)  
-      
+24. 200728 : 코딩테스트 연습 > 연습문제 > 직사각형 별찍 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/12969), 
+    [내풀이]()  
+
          
