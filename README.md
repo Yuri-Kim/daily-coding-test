@@ -73,8 +73,31 @@
 23. 200727 : 코딩테스트 연습 > 연습문제 > 약수의 합 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12928), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200727/sum_divisor.py)  
-24. 200728 : 코딩테스트 연습 > 연습문제 > 직사각형 별찍 
+24. 200728 : 코딩테스트 연습 > 연습문제 > 직사각형 별찍기 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/12969), 
     [내풀이]()  
+25. 200926 : 코딩테스트 연습 > 해시 > 전화번호 목록 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/42577), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200926/phone_num.py)   
+    200926 : 코딩테스트 연습 > 해시 > 위장 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/42578), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200926/camouflage.py)  
+    200926 : 코딩테스트 연습 > 해시 > 베스트 앨범  
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/42579), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200926/best_album.py)  
+    200926 : 코딩테스트 연습 > 깊이/너비 우선 탐색 (DFS/BFS) > 타켓 넘버   
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/43165), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200926/target_num.py)  
+    200926 : 코딩테스트 연습 > 깊이/너비 우선 탐색 (DFS/BFS) > 네트워크 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/43162), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200926/network.py)  
+    200926 : 코딩테스트 연습 > 깊이/너비 우선 탐색 (DFS/BFS) > 단어 변환 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/43163), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200926/word_transform.py)  
+    200926 : 코딩테스트 연습 > 깊이/너비 우선 탐색 (DFS/BFS) > 여행 경로 
+    [문제](https://programmers.co.kr/learn/courses/30/lessons/43164), 
+    [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200926/travel_root.py)  
+    
+
 
          
