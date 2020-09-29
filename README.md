@@ -82,10 +82,10 @@
     200926 : 코딩테스트 연습 > 해시 > 위장 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/42578), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200926/camouflage.py)  
-    200926 : 코딩테스트 연습 > 해시 > 베스트 앨범  
+    200926 : 코딩테스트 연습 > 해시 > 베스트 앨범 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/42579), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200926/best_album.py)  
-    200926 : 코딩테스트 연습 > 깊이/너비 우선 탐색 (DFS/BFS) > 타켓 넘버   
+    200926 : 코딩테스트 연습 > 깊이/너비 우선 탐색 (DFS/BFS) > 타켓 넘버 
     [문제](https://programmers.co.kr/learn/courses/30/lessons/43165), 
     [내풀이](https://github.com/Yuri-Kim/daily-coding-test/blob/master/200926/target_num.py)  
     200926 : 코딩테스트 연습 > 깊이/너비 우선 탐색 (DFS/BFS) > 네트워크 
